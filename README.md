@@ -3,6 +3,7 @@ The offical repository of Boat Team's Early Access Project
 
 ### Warning:
 the EAP version isn't the final product, it may contains a lot of bug. Welcome for feeding back issues !
+Just simply create an issue in Issues !
 
 ### Common Informations
 If you downloaded the EAP version's plugin, that's the same as you downloaded the GA version, that still means you accept our license, for more details, check the license file.
